@@ -1,6 +1,8 @@
 # Hi, I am Dexter
 
-I develop games, and am working on expanding my understanding of code and computing, by making my own operating systems, compilers and interpreters. 
+I develop games, and am working on expanding my understanding of code and computing, by making my own operating systems, compilers and interpreters.
+
+Currently I am completing my year 12 studies, before moving on to a Bachlor's of Engineering in Software Development next year. 
 
 ## Languages
 
