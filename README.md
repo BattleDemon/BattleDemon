@@ -1,18 +1,21 @@
-# Hi, I am Dexter
+# Hi, I'm Dexter
 
-I develop games, and am working on expanding my understanding of code and computing, by making my own operating systems, compilers and interpreters.
+I am a student and aspiring software developer, with a strong intrest in game development, operating system development, and my own compiler. 
 
-Currently I am completing my year 12 studies, before moving on to a Bachlor's of Engineering in Software Development next year. 
+Currently I am completing my year 12 studies, before beginning a Bachlor's of Engineering in Software Development next year.
 
-<!---
-Add a section about how i became passionate about coding, first games, wanting to make games, got an assigment in year 9, loved than and put a lot of time into that before continueing my IT studies in year ten and college resulting in my future degree
---->
+## How My Intrest Started
+
+My intrest in programming began through games, with me wanting to produce my own. This initial spark produced a few small Skratch projects but nothing else. Then in Year 9, I was given an assigment, where the first blocks of a texted based game were given and we were tasked with finising the game. I went entirly overboard, eventually producing a 1,400 line RPG, with multiple player classes, weapons, armour, and inventory, NPCs, monsters, a exploration sytem, boss battles, and a set of interconnected locations.
+
+This project sparked my current intrest in software devlopment and my choice of degree.
+
+<!--- ## Maths --->
+
+## Linux
+
+I use arch BTW.
 
 ## Languages
 
 Most of my projects so far have been developed using Python, and GDScript with some additional project made using Rust, C, and C++.
-
-<!---
-BattleDemon/BattleDemon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
