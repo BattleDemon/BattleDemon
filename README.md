@@ -1,4 +1,4 @@
-# Hi I am Dexter Hart
+# Hi, I am Dexter
 
 I develop games, and am working on expanding my understanding of code and computing, by making my own operating systems, compilers and interpreters. 
 
