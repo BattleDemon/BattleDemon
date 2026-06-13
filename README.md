@@ -1,4 +1,4 @@
-# Hi, I'm Dexter
+<!--- # Hi, I'm Dexter
 
 I am a student and aspiring software developer, with a strong intrest in game development, operating system development, and my own compiler. 
 
@@ -12,7 +12,7 @@ My intrest in programming began through games, with me wanting to produce my own
 This project sparked my current intrest in software devlopment and my choice of degree.
 --->
 <!--- ## Maths --->
-
+<!---
 ## Linux
 
 I use arch BTW.
@@ -20,3 +20,4 @@ I use arch BTW.
 ## Languages
 
 Most of my projects so far have been developed using Python, and GDScript with some additional project made using Rust, C, and C++.
+--->
