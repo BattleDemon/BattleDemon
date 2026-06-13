@@ -1,8 +1,10 @@
-<!--- # Hi, I'm Dexter
+# Hi, I'm Dexter
 
-I am a student and aspiring software developer, with a strong intrest in game development, operating system development, and my own compiler. 
+I am a current year 12 student and spiring software engineer, with an intrest in game development, operating systems, and compilers (with a goal of making my own.)
 
-Currently I am completing my year 12 studies, before beginning a Bachlor's of Engineering in Software Development next year.
+Next year I hope to begin a Bachlor's of Engineering in Software Development, expanding my programming knowledge and skills. 
+
+I use Arch and, NeoVim BTW.
 
 <!---
 ## How My Intrest Started
@@ -12,12 +14,8 @@ My intrest in programming began through games, with me wanting to produce my own
 This project sparked my current intrest in software devlopment and my choice of degree.
 --->
 <!--- ## Maths --->
-<!---
-## Linux
-
-I use arch BTW.
 
 ## Languages
 
-Most of my projects so far have been developed using Python, and GDScript with some additional project made using Rust, C, and C++.
---->
+Most of my projects so far have been developed using Python, and GDScript, with some additional and smaller project made using Rust, C, and C++.
+
